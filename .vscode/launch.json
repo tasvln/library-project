@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ade/Desktop/projects/school/libraryproject",
+      "program": "/Users/ade/Desktop/projects/school/libraryproject/build/Debug/outDebug"
+    }
+  ]
+}
